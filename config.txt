@@ -1,6 +1,6 @@
 token=NTEyNzA2MjkyOTMwODM4NTYw.Ds9W7w.v7_ZFdOe2vINQKprs_enF5Cyh3U
 owner=499982945088569344
-prefix= fff
-game= فخامه زاتو
+prefix= M
+game= Mplay
 stayinchannel=true
 songinstatus=true 
